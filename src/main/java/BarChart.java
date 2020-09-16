@@ -44,32 +44,32 @@ public class BarChart {
         int m = 0;
         
         System.out.println("Sales Chart");
-        System.out.println("Store 1: ");
+        System.out.print("\nStore 1: ");
        
         while(i <= storeOneGraphScale){
             System.out.print("*");
             i++;
     }
        
-        System.out.println("Store 2: ");
+        System.out.print("\nStore 2: ");
         while(j <= storeTwoGraphScale){
             System.out.print("*");
             j++;
     }
         
-        System.out.println("Store 3: ");
+        System.out.print("\nStore 3: ");
         while(k <= storeThreeGraphScale){
             System.out.print("*");
             k++;
     }
         
-        System.out.println("Store 4: ");
+        System.out.print("\nStore 4: ");
         while(l <= storeFourGraphScale){
             System.out.print("*");
             l++;
     }
         
-        System.out.println("Store 5: ");
+        System.out.print("\nStore 5: ");
         while(m <= storeFiveGraphScale){
             System.out.print("*");
             m++;
